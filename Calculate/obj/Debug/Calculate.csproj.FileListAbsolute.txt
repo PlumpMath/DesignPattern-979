@@ -7,3 +7,6 @@ E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.Propert
 E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
 E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.exe
 E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.pdb
+E:\Project\HGX\DesignPattern\Calculate\bin\Debug\Calculate.exe.config
+E:\Project\HGX\DesignPattern\Calculate\obj\Debug\Calculate.exe
+E:\Project\HGX\DesignPattern\Calculate\obj\Debug\Calculate.pdb
