@@ -1,0 +1,9 @@
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\bin\Debug\Calculate.exe.config
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\bin\Debug\Calculate.exe
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\bin\Debug\Calculate.pdb
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.Web.resources
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.exe
+E:\Project\HGX\DesignPattern\DesignPattern\Calculate\obj\Debug\Calculate.pdb
